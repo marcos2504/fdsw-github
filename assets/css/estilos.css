@@ -8,7 +8,11 @@ body {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: right;
+  color: black; /* Color del texto */
+  text-align: right; /* Alineación del texto a la derecha */
+  padding-top: rem; /* Espacio superior (equivalente a py-4) */
+  margin-top: 50rem; /* Margen superior (equivalente a mt-5) */
 }
 
 /* Mis trabajos */
